@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ### **Note Before Submitting:**
-1. **Search for Similar Issues:** Before creating a new issue, please search the [Issues Tab](https://github.com/your-username/your-repo/issues) to see if a similar idea has already been submitted.
+1. **Search for Similar Issues:** Before creating a new issue, please search the [Issues Tab](https://github.com/taha-abbasi/pizza-pet-cemetery/issues) to see if a similar idea has already been submitted.
 2. **Title Instructions:** Use a clear, concise, and descriptive title for your issue.
 
 ---
